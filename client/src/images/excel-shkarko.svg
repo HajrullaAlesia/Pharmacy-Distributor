@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.93" height="25.496" viewBox="0 0 26.93 25.496">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.002" cy="0.5" r="0.39" gradientTransform="translate(-0.125 -0.461) scale(1.661 1.921)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#237f4c"/>
+      <stop offset="1" stop-color="#1e6c41"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_58" data-name="Group 58" transform="translate(-529 -705.752)">
+    <rect id="rect4556" width="25.224" height="19.782" rx="3.375" transform="translate(530.328 708.541)" fill="#fff"/>
+    <g id="use3985" transform="translate(543.529 708.285)">
+      <path id="rect3991" d="M103.4-45.306h4.3v2.21h-4.3Zm5.185,0h4.3V-43.1h-4.3Zm-5.185-3.2h4.3v2.316h-4.3Zm5.185,0h4.3v2.316h-4.3Zm-5.185-3.2h4.3v2.316h-4.3Zm5.185,0h4.3v2.316h-4.3Zm-5.185-3.2h4.3v2.316h-4.3Zm5.185,0h4.3v2.316h-4.3Zm-5.185-3.2h4.3v2.316h-4.3Zm5.185,0h4.3v2.316h-4.3Zm-5.334-2.644v.878h11.514v18.647H103.25v.882h11.44a.961.961,0,0,0,.961-.961V-59.79a.961.961,0,0,0-.961-.961H103.25Z" transform="translate(-103.25 60.751)" fill="#1f7144"/>
+    </g>
+    <path id="path3945" d="M19.82,9.063,4.469,11.793V31.787l15.342,2.771ZM14.912,17.29l-2.2,4.518,2.257,4.546-2.041-.119-1.342-3.328-1.315,3.176-1.8-.1,2.11-4.173-2-4.219,1.944-.092,1.131,3.075,1.36-3.194Z" transform="translate(524.531 696.69)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>
